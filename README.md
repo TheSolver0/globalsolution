@@ -1,0 +1,2 @@
+# globalsolution
+global solution
